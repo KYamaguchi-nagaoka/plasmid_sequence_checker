@@ -9,6 +9,6 @@
    シーケンスリードの向きを設定(デフォルトはforward,Reverseを見たい時はReverse_modeをonにする)
 4. 実行ボタンをクリックするとファイルごとにタブが作成されそこにアラインメント結果が表示される# plasmid_sequence_checker
 
-[streamlit](https://plasmidsequencechecker-ez7wagcpayygvcwkpeqqev.streamlit.app/)
+アプリ公開しています。[リンク](https://plasmidsequencechecker-ez7wagcpayygvcwkpeqqev.streamlit.app/)
 
 
