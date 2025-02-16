@@ -7,7 +7,8 @@
 3. パラメーターの設定<br>
    シーケンスリードの5',3'の切り出しをしてNが含まれないようにする。<br>
    シーケンスリードの向きを設定(デフォルトはforward,Reverseを見たい時はReverse_modeをonにする)
-4. 実行ボタンをクリックするとファイルごとにタブが作成されそこにアラインメント結果が表示される# plasmid_sequence_checker
+4. 実行ボタンをクリックするとファイルごとにタブが作成されそこにアラインメント結果が表示される
+   ![sample_secenceの結果](/sample_sequence/resule_read2.jpg)
 
 アプリ公開しています。<br>
 [リンク](https://plasmidsequencechecker-ez7wagcpayygvcwkpeqqev.streamlit.app/)
