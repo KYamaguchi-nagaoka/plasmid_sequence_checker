@@ -13,7 +13,8 @@
 4. 実行ボタンをクリックするとファイルごとにタブが作成されそこにアラインメント結果が表示される<br>
 
    <img src="/sample_sequence/result_read2.png" width="50%"><br>
-   ※赤字部分が変異部分(-は欠失)
+   
+   <span style="color: red">※赤字部分が変異部分(-は欠失)</span>
    
 
 アプリ公開しています。<br>
