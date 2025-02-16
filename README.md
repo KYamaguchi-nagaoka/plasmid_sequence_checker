@@ -12,7 +12,7 @@
    
 4. 実行ボタンをクリックするとファイルごとにタブが作成されそこにアラインメント結果が表示される<br>
 
-   ![sample_secenceの結果](/sample_sequence/result_read2.png)<br>
+   <img src="/sample_sequence/result_read2.png" width="50%"><br>
    
 
 アプリ公開しています。<br>
