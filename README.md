@@ -13,6 +13,7 @@
 4. 実行ボタンをクリックするとファイルごとにタブが作成されそこにアラインメント結果が表示される<br>
 
    <img src="/sample_sequence/result_read2.png" width="50%"><br>
+   -は欠失
    
 
 アプリ公開しています。<br>
